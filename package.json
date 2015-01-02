@@ -1,9 +1,9 @@
 {
-  "name": "atom-light-syntax",
+  "name": "atom-light-syntax-ssadler",
   "theme": "syntax",
-  "version": "0.22.0",
-  "description": "Default light syntax theme",
-  "repository": "https://github.com/atom/atom-light-syntax",
+  "version": "0.22.1",
+  "description": "Scott's light syntax theme",
+  "repository": "https://github.com/ssadler/atom-light-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.40.0"
